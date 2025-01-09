@@ -8,8 +8,8 @@ import java.net.Socket;
 import java.util.ArrayList;
 
 /**
- *
- * @author PC
+ * Tato trieda nam spracuvava udaje od pouzivatela a preposiela ich dalej.
+ * 
  */
 class ClientHandler implements Runnable{
 
